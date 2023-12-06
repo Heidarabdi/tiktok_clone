@@ -1,0 +1,4 @@
+#Wed Dec 06 13:40:48 EAT 2023
+base.0=D\:\\Languages\\flutter\\tiktok_clone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
